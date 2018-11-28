@@ -1,2 +1,2 @@
 # Web-scraping
-Web scraping is a computer software technique of extracting information from websites.This technique mostly focuses on the transformation of unstructured data(HTML format) on the web into structured data(database or spreadsheet).
+Web scraping is a computer software technique of extracting information from websites.This technique mostly focuses on the transformation of unstructured data(HTML format) on the web into structured data(database or spreadsheet).The two Python web scraping tools are created to do different jobs.BeautifulSoup is only used to parse HTML and extract data,Scrapy is used to download HTML,process data and save it.
